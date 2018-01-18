@@ -18,7 +18,7 @@ Contains:
 
 #### Requires
 - PHP Version >= 5.4 ( Socket extension enabled )
-- Orientdb version 2.2.14 or later.
+- Orientdb version 2.2.14 or later. 3.0?
 
 # composer install 
 
