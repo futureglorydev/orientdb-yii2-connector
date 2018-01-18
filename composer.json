@@ -6,7 +6,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/futureglorydev/PhpOrient"
-        },
+        }
     ],
     "require": {
         "ostico/phporient": "v1.2.6"
